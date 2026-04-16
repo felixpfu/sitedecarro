@@ -1,0 +1,32 @@
+.textodecima {
+    color:aqua;
+    text-align:center;
+    margin-top:10%;
+    font-size:70px;
+}
+
+
+.textodomeio {
+    color:aqua;
+    text-align:center;
+    padding:70px;
+    font-size:70px;
+}
+
+.textodebaixo {
+    color:aqua;
+    text-align:center;
+    margin-top:1%;
+    font-size:70px;
+}
+
+
+
+
+
+
+
+
+body {
+    background-color:black;
+}
